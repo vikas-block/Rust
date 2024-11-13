@@ -1,0 +1,11 @@
+/home/rishabhjaiswal/Rust_Projects/extract-links/target/debug/deps/libtendril-2f45891e0cd5a415.rmeta: /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs
+
+/home/rishabhjaiswal/Rust_Projects/extract-links/target/debug/deps/tendril-2f45891e0cd5a415.d: /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs /home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs
+
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs:
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs:
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs:
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs:
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs:
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs:
+/home/rishabhjaiswal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs:

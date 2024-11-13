@@ -1,0 +1,10 @@
+[package]
+name = "image-downloader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tempfile="3.13.0"
+reqwest =  "0.12.9"
+tokio={ version = "1.41.0", features=["full"]}
+error-chain="0.12.4"
